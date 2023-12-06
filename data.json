@@ -1,0 +1,13 @@
+[
+    {"std_ID": 1, "name": "John Doe", "age": 30, "city": "New York", "email": "johndoe@example.com", "marks": 85},
+    {"std_ID": 2, "name": "Jane Doe", "age": 25, "city": "Los Angeles", "email": "janedoe@example.com", "marks": 90},
+    {"std_ID": 3, "name": "Alice Johnson", "age": 20, "city": "Chicago", "email": "alicejohnson@example.com", "marks": 95},
+    {"std_ID": 4, "name": "Bob Smith", "age": 35, "city": "Houston", "email": "bobsmith@example.com", "marks": 80},
+    {"std_ID": 5, "name": "Charlie Brown", "age": 30, "city": "Phoenix", "email": "charliebrown@example.com", "marks": 88},
+    {"std_ID": 6, "name": "David Davis", "age": 28, "city": "Philadelphia", "email": "daviddavis@example.com", "marks": 92},
+    {"std_ID": 7, "name": "Eva Green", "age": 26, "city": "San Antonio", "email": "evagreen@example.com", "marks": 87},
+    {"std_ID": 8, "name": "Frank White", "age": 24, "city": "San Diego", "email": "frankwhite@example.com", "marks": 89},
+    {"std_ID": 9, "name": "Grace Lee", "age": 22, "city": "Dallas", "email": "gracelee@example.com", "marks": 93},
+    {"std_ID": 10, "name": "Helen Clark", "age": 20, "city": "San Jose", "email": "helenclark@example.com", "marks": 91}
+    
+]
